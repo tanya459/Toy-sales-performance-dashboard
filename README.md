@@ -88,7 +88,7 @@ Based on the dashboard:
 - Revenue shows a noticeable increase during **October and November** in the latest-year trend.
 - Average profit varies across different weekdays.
 
-## Project Workflow
+## 🔄 Project Workflow
 
 ```text
 Raw Dataset
@@ -106,5 +106,8 @@ Data Visualization
 Interactive Power BI Dashboard
      ↓
 Business Insights
+```
+
+## 📌 Dashboard Preview
 
 ![Toy Sales Performance Dashboard](Dashboard/dashboard.png)
