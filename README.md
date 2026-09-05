@@ -106,3 +106,5 @@ Data Visualization
 Interactive Power BI Dashboard
      ↓
 Business Insights
+
+![Toy Sales Performance Dashboard](Dashboard/dashboard.png)
