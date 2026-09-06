@@ -110,4 +110,4 @@ Business Insights
 
 ## 📌 Dashboard Preview
 
-![Toy Sales Performance Dashboard](Dashboard/dashboard.png)
+![Toy Sales Performance Dashboard](Dashboard/Dashboard.png)
